@@ -1,3 +1,11 @@
+To run, just run 'npm install', then 'npm start' from the command line once you are in the project directory. 
+
+After running, the invoice creator can be found at 'http://localhost:3000/' (it should pop up automatically on Chrome but that's the link just in case).
+
+To keep things simple, I used the same customer, Abigayle Proctor, for all the invoices. 
+
+After adding, items to the cart and hitting the submit button, the invoice should be sent to the Omni demo platform where the created invoice can be seen. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
